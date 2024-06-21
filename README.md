@@ -1,2 +1,2 @@
 # Penguin_app
-Used two machine learning algorithms to predict the outcome 
+Used machine learning algorithms to predict the outcome 
